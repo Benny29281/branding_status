@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.8"
+    }
+}
